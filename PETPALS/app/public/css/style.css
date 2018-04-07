@@ -1,0 +1,45 @@
+img {
+    height: 500%; 
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 25px;
+}
+
+.dropdown {
+
+    top:-14px;
+    width:5%;
+	padding-top: 22px;
+	font-size: 5px;
+	margin: 10px;
+    
+
+}
+
+.searchBtn {
+
+	background-color: black;
+	padding: 20px;
+	top: -180px;
+
+}
+
+.addBtn {
+	background-color: black;
+	padding: 20px;
+	top: -20px;
+
+}
+
+
+
+.carousel.carousel-slider.initialized {
+min-height: 40vh !important 
+max-width: 50vh !important;} 
+
+
+
+
+

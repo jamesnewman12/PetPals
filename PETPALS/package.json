@@ -1,0 +1,30 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "Project 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agarzon25/project2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agarzon25/project2/issues"
+  },
+  "homepage": "https://github.com/agarzon25/project2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.4.0",
+    "express-handlebars": "^3.0.0",
+    "materialize-css": "^1.0.0-beta",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.35.5",
+    "sequelize-cli": "^4.0.0"
+  }
+}
